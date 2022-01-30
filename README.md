@@ -1,1 +1,1 @@
-Projeto para praticar consumo de APIs externas utilizando ReactJs + Axios.
+Projeto para praticar o consumo de APIs externas utilizando ReactJs + Axios.
